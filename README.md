@@ -7,6 +7,9 @@ http://www.pagosonline.com/index.php?option=com_content&view=article&id=230&tab=
 
 Since I couldn't find any license information in the original source I will open the new code and modifications to a simple provisionary license.
 
+Do you wish to integrate your scripts with paylatam gateway ? Contact payulatam integration programmer https://www.phpfreelanceprogrammer.com/paymentgatewayintegration.html
+
+
 License:
 
 1 - You must keep this file with the link to the original source. http://www.pagosonline.com/desarrolladores/Plugin/opencart/Plugin%20OpenCart1.5.1.3.1v1.0.zip
